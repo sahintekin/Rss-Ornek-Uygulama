@@ -1,0 +1,11 @@
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\bin\Debug\RssOrnek.exe.config
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\bin\Debug\RssOrnek.exe
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\bin\Debug\RssOrnek.pdb
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\obj\Debug\RssOrnek.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\obj\Debug\RssOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\obj\Debug\RssOrnek.Form1.resources
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\obj\Debug\RssOrnek.Properties.Resources.resources
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\obj\Debug\RssOrnek.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\obj\Debug\RssOrnek.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\obj\Debug\RssOrnek.exe
+C:\Users\ahmet\source\repos\RssOrnek\RssOrnek\obj\Debug\RssOrnek.pdb
